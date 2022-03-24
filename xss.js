@@ -1,8 +1,8 @@
 <!--        Author : Ismail Tasdelen -->
-<!--      Linkedin : https://www.linkedin.com/in/ismailtasdelen/ -->
-<!--        GitHub : https://github.com/ismailtasdelen/ -->
-<!--       Twitter : https://twitter.com/ismailtsdln -->
-<!--        Medium : https://medium.com/@ismailtasdelen -->
+<!--      Linkedin : https://www.linkedin.com/in/imranniaz-fh/ -->
+<!--        GitHub : https://github.com/imran-niaz/ -->
+<!--       Twitter : https://twitter.com/imranniaz_dev -->
+<!--        Medium : https://medium.com/@imrn-niaz -->
 
 "-prompt(8)-"
 '-prompt(8)-'
